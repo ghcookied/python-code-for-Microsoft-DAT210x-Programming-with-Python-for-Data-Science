@@ -7,6 +7,8 @@ import os
 from mpl_toolkits.mplot3d import Axes3D
 from plyfile import PlyData, PlyElement
 
+# PCA on a 3D armadillo graphic mesh
+
 
 # Every 100 data samples, we save 1. If things run too
 # slow, try increasing this number. If things run too fast,
